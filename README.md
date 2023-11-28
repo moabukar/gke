@@ -1,4 +1,6 @@
-# create a xxx.auto.tfvars file to contain your account info
+# GKE setup
+
+- create an <name>.auto.tfvars file to contain your account info
 
 i.e. 
 
